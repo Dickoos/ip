@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/updateGuestsData"
+        android:title="@string/menu_updateGuestsDataTitle"
+        android:icon="@drawable/ic_refresh_white_24dp"
+        app:showAsAction="ifRoom"/>
+<!--    <item android:id="@+id/uploadNewDatabase"-->
+<!--        android:title="@string/menu_uploadNewDatabaseTitle">-->
+<!--        <menu>-->
+<!--            <item android:id="@+id/uploadNewGuestsDatabase"-->
+<!--                android:title="@string/menu_uploadNewGuestsDatabaseTitle" />-->
+<!--            <item android:id="@+id/uploadNewMembersDatabase"-->
+<!--                android:title="@string/menu_uploadNewMembersDatabaseTitle" />-->
+<!--        </menu>-->
+<!--    </item>-->
+<!--    <item android:id="@+id/unloadDatabase"-->
+<!--        android:title="@string/menu_unloadDatabaseTitle">-->
+<!--        <menu>-->
+<!--            <item android:id="@+id/unloadGuestsDatabase"-->
+<!--                android:title="@string/menu_unloadGuestsDatabaseTitle" />-->
+<!--            <item android:id="@+id/unloadMembersDatabase"-->
+<!--                android:title="@string/menu_unloadMembersDatabaseTitle" />-->
+<!--        </menu>-->
+<!--    </item>-->
+    <item android:id="@+id/addUser"
+        android:title="@string/menu_addUserTitle">
+        <menu>
+            <item android:id="@+id/addGuest"
+                android:title="@string/menu_addGuestTitle" />
+            <item android:id="@+id/addGuestMeet"
+                android:title="@string/menu_addGuestMeetTitle" />
+<!--            <item android:id="@+id/addMember"-->
+<!--                android:title="@string/menu_addMemberTitle" />-->
+<!--            <item android:id="@+id/addMemberMeet"-->
+<!--                android:title="@string/menu_addMemberMeetTitle" />-->
+        </menu>
+    </item>
+    <item android:id="@+id/setupGuest"
+                android:title="@string/menu_setupGuestTitle" />
+    <item android:id="@+id/unloadDb"
+        android:title="@string/menu_unloadDbTitle" />
+    <item android:id="@+id/syncArrivals"
+        android:title="@string/menu_syncArrivalsTitle" />
+<!--    <item android:id="@+id/membersDatabase"-->
+<!--        android:title="@string/menu_membersDatabaseTitle" />-->
+</menu>

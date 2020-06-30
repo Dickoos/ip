@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">IpTime</string>
+    <string name="menu_setupMemberTitle">Таблица всех участников</string>
+    <string name="menu_setupGuestTitle">Таблица всех гостей</string>
+    <string name="menu_addMemberTitle">Добавить участника</string>
+    <string name="menu_addGuestTitle">Добавить гостя</string>
+    <string name="menu_unloadMembersDatabaseTitle">Выгрузить базу участников</string>
+    <string name="menu_unloadGuestsDatabaseTitle">Выгрузить базу гостей</string>
+    <string name="menu_uploadNewMembersDatabaseTitle">Загрузить новую базу участников</string>
+    <string name="menu_uploadNewGuestsDatabaseTitle">Загрузить новую базу гостей</string>
+    <string name="menu_updateMembersDataTitle">Обновить данные участников</string>
+    <string name="menu_updateGuestsDataTitle">Обновить данные гостей</string>
+    <string name="menu_updateDataTitle">Обновить данные</string>
+    <string name="menu_uploadNewDatabaseTitle">Загрузить новую базу</string>
+    <string name="menu_unloadDatabaseTitle">Выгрузить базу</string>
+    <string name="menu_addUserTitle">Добавить</string>
+    <string name="menu_setupUserTitle">Просмотреть и настроить таблицы</string>
+    <string name="menu_membersDatabaseTitle">База участников</string>
+    <string name="activityMain_fullNameSearchHint">Введите имя для поиска</string>
+    <string name="buttonSearch">Поиск</string>
+    <string name="dateHint">YYYY-MM-DD</string>
+    <string name="fullNameHint">ФИО</string>
+    <string name="phoneNumHint">Номер телефона</string>
+    <string name="emailHint">Email</string>
+    <string name="saveText">Сохранить</string>
+    <string name="personalInformationHint">Личная информация</string>
+    <string name="menu_addGuestMeetTitle">Добавление гостя на встречу</string>
+    <string name="buttonAddText">Добавить</string>
+    <string name="menu_addMemberMeetTitle">Добавление участника на встречу</string>
+    <string name="autoCompleteTextView_fullNameAndPhoneSearchGuestsHint">ФИО</string>
+    <string name="button_deleteText">Удалить</string>
+    <string name="editText_passHint">Пароль</string>
+    <string name="button_testPassText">Войти</string>
+    <string name="menu_syncArrivalsTitle">Синхронизировать пришедших</string>
+    <string name="menu_unloadDbTitle">Выгрузить бд</string>
+</resources>
